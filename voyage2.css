@@ -53,7 +53,7 @@ main
 article 
 {
     width: 100%;
-    min-height: 100%;
+    min-height: 106%;
 }
 
 a
@@ -111,7 +111,6 @@ a
 
 #h1-chinatown
 {
-    margin-top: 2%;
     font-family: 'Rock Salt', cursive;
     font-size: 35px;
     text-align: center;
@@ -126,7 +125,8 @@ a
 {
     font-size: 17px;
     text-align: justify;
-    margin: 0 25%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 3%;
 }
 
@@ -149,7 +149,6 @@ a
 
 #h1-goldengatebridge
 {
-    margin-top: 2%;
     font-family: 'Rock Salt', cursive;
     font-size: 35px;
     text-align: center;
@@ -164,7 +163,8 @@ a
 {
     font-size: 17px;
     text-align: justify;
-    margin: 0 30%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 3%;
 }
 
@@ -187,7 +187,6 @@ a
 
 #h1-cablecar
 {
-    margin-top: 2%;
     font-family: 'Rock Salt', cursive;
     font-size: 35px;
     text-align: center;
@@ -202,7 +201,8 @@ a
 {
     font-size: 17px;
     text-align: justify;
-    margin: 0 25%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 3%;
 }
 
@@ -225,7 +225,6 @@ a
 
 #h1-paintedladies
 {
-    margin-top: 2%;
     font-family: 'Rock Salt', cursive;
     font-size: 35px;
     text-align: center;
@@ -240,7 +239,8 @@ a
 {
     font-size: 17px;
     text-align: justify;
-    margin: 0 25%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 3%;
 }
 
@@ -305,7 +305,8 @@ a
 {
     font-size: 17px;
     text-align: justify;
-    margin: 0 30%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 3%;
 }
 
@@ -360,7 +361,6 @@ a
 
 #h1-santamonica
 {
-    margin-top: 2%;
     font-family: 'Rock Salt', cursive;
     font-size: 35px;
     text-align: center;
@@ -375,7 +375,8 @@ a
 {
     font-size: 17px;
     text-align: justify;
-    margin: 0 30%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 3%;
 }
 

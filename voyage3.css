@@ -52,7 +52,7 @@ main
 article 
 {
     width: 100%;
-    min-height: 124%;
+    min-height: 108%;
 }
 
 a
@@ -79,7 +79,7 @@ a
 {
     font-family: 'Dancing Script', cursive;
     text-align: center;
-    font-size: 35px;
+    font-size: 45px;
     width: 100%;
     background-color: white;
     background-image: url('images/france/france.jpg');
@@ -108,15 +108,14 @@ a
 
 #h1-paris
 {
-    margin-top: 2%;
     font-family: 'Dancing Script', cursive;
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
     background-image: url('images/france/paris.jpg');
     background-size: contain;
     color: transparent;
     -moz-background-clip: text;
-	-webkit-background-clip: text;
+    -webkit-background-clip: text;
 }
 
 /* LE LOUVRE */
@@ -138,9 +137,8 @@ a
 
 #h1-lelouvre
 {
-    margin-top: 2%;
     font-family: 'Dancing Script', cursive;
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
     background-image: url('images/france/lelouvre.jpg');
     background-size: contain;
@@ -153,7 +151,8 @@ a
 {
     font-size: 17px;
     text-align: justify;
-    margin: 0 30%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 3%;
 }
 
@@ -176,9 +175,8 @@ a
 
 #h1-arcdetriomphe
 {
-    margin-top: 2%;
     font-family: 'Dancing Script', cursive;
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
     background-image: url('images/france/arcdetriomphe.jpg');
     background-size: contain;
@@ -191,7 +189,8 @@ a
 {
     font-size: 17px;
     text-align: justify;
-    margin: 0 30%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 3%;
 }
 
@@ -214,9 +213,8 @@ a
 
 #h1-sacrecoeur
 {
-    margin-top: 2%;
     font-family: 'Dancing Script', cursive;
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
     background-image: url('images/france/sacrecoeur.jpg');
     background-size: contain;
@@ -229,7 +227,9 @@ a
 {
     font-size: 17px;
     text-align: justify;
-    margin: 0 30%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 3%;
 }
 
 /* TOUR EIFFEL */
@@ -275,9 +275,8 @@ a
 
 #h1-toureiffel
 {
-    margin-top: 2%;
     font-family: 'Dancing Script', cursive;
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
     background-image: url('images/france/toureiffel1.jpg');
     background-size: contain;
@@ -286,12 +285,12 @@ a
 	-webkit-background-clip: text;
 }
 
-
 #p-toureiffel
 {
-    font-size: 15px;
+    font-size: 17px;
     text-align: justify;
-    margin: 0 28%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 3%;
 }
 
@@ -314,9 +313,8 @@ a
 
 #h1-toulouse
 {
-    margin-top: 2%;
     font-family: 'Dancing Script', cursive;
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
     background-image: url('images/france/toulouse.jpg');
     background-size: contain;
@@ -329,7 +327,9 @@ a
 {
     font-size: 17px;
     text-align: justify;
-    margin: 0 30%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 3%;
 }
 
 /* NICE */
@@ -367,9 +367,8 @@ a
 
 #h1-nice
 {
-    margin-top: 2%;
     font-family: 'Dancing Script', cursive;
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
     background-image: url('images/france/nice1.jpg');
     background-size: contain;
@@ -380,9 +379,10 @@ a
 
 #p-nice
 {
-    font-size: 15px;
+    font-size: 17px;
     text-align: justify;
-    margin: 0 28%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 3%;
 }
 
