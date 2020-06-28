@@ -327,6 +327,40 @@ body {
 }
 
 
-span {
-  text-align: center;
+
+.two  {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto ;
+	font-family: Roboto, Arial, sans-serif;
+
+}
+
+.one {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto ;
+	font-family: Roboto, Arial, sans-serif;
+	
+
+}
+
+.three {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto ;
+	font-family: Roboto, Arial, sans-serif;
+
+}
+
+.four {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto ;
+	font-family: Roboto, Arial, sans-serif;
+
 }
