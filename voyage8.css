@@ -47,6 +47,20 @@ header
     background-color: #191A1D;
 }
 
+.a-logo
+{
+    text-decoration: none;
+    color: white;
+    width: 5%;
+    height: 55%;
+}
+
+.logo-header
+{
+    width: 100%;
+    height: 100%;
+}
+
 /*BARRE NAVIGATION HEADER*/
 
 nav
@@ -93,7 +107,7 @@ nav label
 .a-nav
 {
     text-decoration: none;
-    font-size: 15px;
+    font-size: 11px;
     color: white;
 }
 
